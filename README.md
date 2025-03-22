@@ -3,25 +3,36 @@ The Car Dealership Management System is a Java-based application designed to man
 
 <h2>Key Features</h2>
 <ol>
-  <li>Car Management
+  <li><strong>Car Management</strong>
   <ul>
-    <li>Add New Cars: Add cars to the dealership inventory with details like model, color, make, year, price, rental rate, and insurance information.</li>
-    <li>Update Car Details: Modify existing car details, including model, color, make, year, price, rental rate, status, and insurance.</li>
-    <li>Remove Cars: Remove cars from the inventory.</li>
+    <li><strong>Add New Cars:</strong> Add cars to the dealership inventory with details like model, color, make, year, price, rental rate, and insurance information.</li>
+    <li><strong>Update Car Details:</strong> Modify existing car details, including model, color, make, year, price, rental rate, status, and insurance.</li>
+    <li><strong>Remove Cars:</strong> Remove cars from the inventory.</li>
     <li>Display Car Details: View details of all cars in the inventory.</li>
     <li>Search for a Car: Search for a specific car by its ID.</li>
   </ul>
   </li>
   <li>
-    Purchase Management
+   <strong>Purchase Management</strong> 
     <ul>
-      <li>Add New Purchases: Record new purchases, including purchase date, payment method, customer details, and the car being purchased.</li>
-      <li>Update Purchase Details: Modify purchase details such as purchase date, payment method, customer details, and car details.</li>
-      <li>Remove/Cancel Purchases: Remove or cancel a purchase.</li>
-      <li>Display Purchase Details: View details of all purchases.</li>
-      <li>Search for a Purchase: Search for a specific purchase by its ID.</li>
+      <li><strong>Add New Purchases:</strong> Record new purchases, including purchase date, payment method, customer details, and the car being purchased.</li>
+      <li><strong>Update Purchase Details:</strong> Modify purchase details such as purchase date, payment method, customer details, and car details.</li>
+      <li><strong>Remove/Cancel Purchases:</strong> Remove or cancel a purchase.</li>
+      <li><strong>Display Purchase Details:</strong> View details of all purchases.</li>
+      <li><strong>Search for a Purchase:</strong> Search for a specific purchase by its ID.</li>
         
     </ul>
+  </li>
+
+  <li>
+  Rental Management
+  <ul>
+    <li><strong>Add New Rentals: </strong> Record new rentals, including rental start/end dates, customer details, the car being rented, and rental cost.</li>
+      <li><strong>Update Rental Details:</strong> Modify rental details such as rental start/end dates, customer details, and car details.</li>
+      <li><strong>Remove/Cancel Rentals:</strong> Remove or cancel a rental.</li>
+      <li><strong>Display Display Rental Details:</strong>  View details of all rentals.</li>
+      <li><strong>Search for a Rental:</strong>  Search for a specific rental by its ID.</li>
+  </ul>
   </li>
 </ol>
 
@@ -36,16 +47,15 @@ The Car Dealership Management System is a Java-based application designed to man
 
 
 
-3. Rental Management
-Add New Rentals: Record new rentals, including rental start/end dates, customer details, the car being rented, and rental cost.
 
-Update Rental Details: Modify rental details such as rental start/end dates, customer details, and car details.
 
-Remove/Cancel Rentals: Remove or cancel a rental.
 
-Display Rental Details: View details of all rentals.
 
-Search for a Rental: Search for a specific rental by its ID.
+
+
+
+
+
 
 4. System Operations
 Load System Data: Load car, purchase, and rental details from a file.
