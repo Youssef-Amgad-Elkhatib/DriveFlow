@@ -12,6 +12,7 @@ The Car Dealership Management System is a Java-based application designed to man
     <li>Search for a Car: Search for a specific car by its ID.</li>
   </ul>
   </li>
+   </br>
   <li>
    <strong>Purchase Management</strong> 
     <ul>
@@ -20,10 +21,9 @@ The Car Dealership Management System is a Java-based application designed to man
       <li><strong>Remove/Cancel Purchases:</strong> Remove or cancel a purchase.</li>
       <li><strong>Display Purchase Details:</strong> View details of all purchases.</li>
       <li><strong>Search for a Purchase:</strong> Search for a specific purchase by its ID.</li>
-        
     </ul>
   </li>
-
+  </br>
   <li>
   Rental Management
   <ul>
