@@ -2,27 +2,39 @@
 The Car Dealership Management System is a Java-based application designed to manage a car dealership's inventory, purchases, and rentals. It provides a comprehensive, menu-driven interface for users to interact with the system, allowing them to perform various operations such as adding, updating, removing, and displaying details about cars, purchases, and rentals. This program is ideal for managing a car dealership's day-to-day operations efficiently.
 
 <h2>Key Features</h2>
-1. Car Management
-Add New Cars: Add cars to the dealership inventory with details like model, color, make, year, price, rental rate, and insurance information.
+<ol>
+  <li>Car Management
+  <ul>
+    <li>Add New Cars: Add cars to the dealership inventory with details like model, color, make, year, price, rental rate, and insurance information.</li>
+    <li>Update Car Details: Modify existing car details, including model, color, make, year, price, rental rate, status, and insurance.</li>
+    <li>Remove Cars: Remove cars from the inventory.</li>
+    <li>Display Car Details: View details of all cars in the inventory.</li>
+    <li>Search for a Car: Search for a specific car by its ID.</li>
+  </ul>
+  </li>
+  <li>
+    Purchase Management
+    <ul>
+      <li>Add New Purchases: Record new purchases, including purchase date, payment method, customer details, and the car being purchased.</li>
+      <li>Update Purchase Details: Modify purchase details such as purchase date, payment method, customer details, and car details.</li>
+      <li>Remove/Cancel Purchases: Remove or cancel a purchase.</li>
+      <li>Display Purchase Details: View details of all purchases.</li>
+      <li>Search for a Purchase: Search for a specific purchase by its ID.</li>
+        
+    </ul>
+  </li>
+</ol>
 
-Update Car Details: Modify existing car details, including model, color, make, year, price, rental rate, status, and insurance.
 
-Remove Cars: Remove cars from the inventory.
 
-Display Car Details: View details of all cars in the inventory.
 
-Search for a Car: Search for a specific car by its ID.
 
-2. Purchase Management
-Add New Purchases: Record new purchases, including purchase date, payment method, customer details, and the car being purchased.
 
-Update Purchase Details: Modify purchase details such as purchase date, payment method, customer details, and car details.
 
-Remove/Cancel Purchases: Remove or cancel a purchase.
 
-Display Purchase Details: View details of all purchases.
 
-Search for a Purchase: Search for a specific purchase by its ID.
+
+
 
 3. Rental Management
 Add New Rentals: Record new rentals, including rental start/end dates, customer details, the car being rented, and rental cost.
