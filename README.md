@@ -1,9 +1,9 @@
 <h1>Car Dealership Management System</h1>
 <p>The Car Dealership Management System is a Java-based application designed to manage a car dealership's inventory, purchases, and rentals. It provides a comprehensive, menu-driven interface for users to interact with the system, allowing them to perform various operations such as adding, updating, removing, and displaying details about cars, purchases, and rentals. This program is ideal for managing a car dealership's day-to-day operations efficiently.</p>
 
-<h2>Key Features</h2>
+<h1>Key Features</h1>
 <ol>
-    <li><strong>Car Management</strong>
+    <li><strong><h4>Car Management</h4></strong>
     </br>
         <ul>
             <li><strong>Add New Cars:</strong> Add cars to the dealership inventory with details like model, color, make, year, price, rental rate, and insurance information.</li>
