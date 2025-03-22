@@ -3,7 +3,7 @@
 
 <h1>Key Features</h1>
 <ol>
-    <li><strong><h4>Car Management</h4></strong>
+    <li><strong>Car Management</strong>
     </br>
         <ul>
             <li><strong>Add New Cars:</strong> Add cars to the dealership inventory with details like model, color, make, year, price, rental rate, and insurance information.</li>
