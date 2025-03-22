@@ -4,7 +4,7 @@
 <h2>Key Features</h2>
 <ol>
     <li><strong>Car Management</strong>
-        </br>
+    </br>
         <ul>
             <li><strong>Add New Cars:</strong> Add cars to the dealership inventory with details like model, color, make, year, price, rental rate, and insurance information.</li>
             <li><strong>Update Car Details:</strong> Modify existing car details, including model, color, make, year, price, rental rate, status, and insurance.</li>
@@ -15,7 +15,7 @@
     </li>
     </br>
     <li><strong>Purchase Management</strong>
-        </br>
+    </br>
         <ul>
             <li><strong>Add New Purchases:</strong> Record new purchases, including purchase date, payment method, customer details, and the car being purchased.</li>
             <li><strong>Update Purchase Details:</strong> Modify purchase details such as purchase date, payment method, customer details, and car details.</li>
@@ -26,7 +26,7 @@
     </li>
     </br>
     <li><strong>Rental Management</strong>
-        </br>
+    </br>
         <ul>
             <li><strong>Add New Rentals:</strong> Record new rentals, including rental start/end dates, customer details, the car being rented, and rental cost.</li>
             <li><strong>Update Rental Details:</strong> Modify rental details such as rental start/end dates, customer details, and car details.</li>
@@ -47,7 +47,7 @@
     <li><strong>Display System Summary:</strong> View a summary of all system details (cars, purchases, and rentals).</li>
 </ul> 
     </li>
-</br>    
+    </br>    
 <li>
     <strong>Input Validation</strong>
     </br>
@@ -57,7 +57,7 @@
     <li><strong>Validates date ranges for rentals (e.g., rental end date must be after the start date).</strong></li>
     </ul>
 </li>
-</br>
+    </br>
 <li>
     <strong>Insurance Management</strong>
     </br>
@@ -70,7 +70,7 @@
 </ol>
 
 </br>
-<h1>Contributers</h1>
+<h1>Contributors</h1>
 
 - [Youssef Amgad Elkhatib](https://github.com/Youssef-Amgad-Elkhatib)
 
