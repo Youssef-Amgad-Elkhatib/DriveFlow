@@ -47,17 +47,17 @@
 <li>
     <strong>Input Validation</strong>
     <ul>
-    <li>Ensures valid input for dates, prices, rental rates, and other numeric values.</li>
-    <li>Checks for duplicate IDs (e.g., car ID, purchase ID, rental ID).</li>
-    <li>Validates date ranges for rentals (e.g., rental end date must be after the start date).</li>
+    <li><strong>Ensures valid input for dates, prices, rental rates, and other numeric values.</strong></li>
+    <li><strong>Checks for duplicate IDs (e.g., car ID, purchase ID, rental ID).</strong></li>
+    <li><strong>Validates date ranges for rentals (e.g., rental end date must be after the start date).</strong></li>
     </ul>
 </li>
 </br>
 <li>
     <strong>Insurance Management</strong>
     <ul>
-    <li>Each car has associated insurance details (e.g., provider name, policy number, expiry date, coverage details).</li>
-    <li>Insurance details can be updated along with car details.</li>
+    <li><strong>Each car has associated insurance details (e.g., provider name, policy number, expiry date, coverage details).</strong></li>
+    <li><strong>Insurance details can be updated along with car details.</strong></li>
 </ul>
 </li>
 
