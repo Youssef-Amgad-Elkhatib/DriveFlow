@@ -78,7 +78,7 @@
 </ol>
 
 </br>
-<h2>🤝 Contributors</h2>
+<h2>✍️ Authors</h2>
 
 - [Youssef Amgad Elkhatib](https://github.com/Youssef-Amgad-Elkhatib)
 
