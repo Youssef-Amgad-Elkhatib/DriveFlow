@@ -3,11 +3,9 @@
 <p>The Car Dealership Management System is a Java-based application designed to manage a car dealership's inventory, purchases, and rentals. It provides a comprehensive, menu-driven interface for users to interact with the system, allowing them to perform various operations such as adding, updating, removing, and displaying details about cars, purchases, and rentals. This program is ideal for managing a car dealership's day-to-day operations efficiently.</p>
 </br>
 <h2>🎥 Watch the video</h2>
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=UOt4hgVDt0c">
-    <img src="https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/become-a-dealer/2024-mitsubishi-dealer-vehicle-lineup.jpg" alt="Watch the video" width="600">
-  </a>
-</p>
+
+ [![Car Dealership System](https://ytcards.demolab.com/?id=UOt4hgVDt0c&title=Car+Dealership+System&lang=en&timestamp=1740230982&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=600&border_radius=5&duration=1420 "Car Dealership System")](https://youtu.be/UItfbdI0oNc?si=mjrsewEwBdhtvzDX)
+
 </br>
 <h2>✨ Key Features</h2>
 <ol>
