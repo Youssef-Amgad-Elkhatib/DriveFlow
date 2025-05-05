@@ -1,0 +1,131 @@
+Cars
+===========================================================================================================================================================
+Car 1
+
+CarID: 003
+Model: Accord
+Color: White
+Make: Honda
+Year: 2021
+Price: 32000.0
+MilesDriven: 10000.0
+RentalRatePerDay: 55.0
+Status: Available
+Insurance Details:
+		InsuranceID: 567
+		ProviderName: Progressive
+		PolicyNumber: 202
+		ExpiryDate: 05/05/2029
+		InsuranceCost: 11000.0
+		CoverageDetails: Comprehensive coverage with zero deductible and emergency services.
+===========================================================================================================================================================
+Car 2
+
+CarID: 004
+Model: Model 3
+Color: Blue
+Make: Tesla
+Year: 2022
+Price: 50000.0
+MilesDriven: 8000.0
+RentalRatePerDay: 100.0
+Status: Rented
+Insurance Details:
+		InsuranceID: 678
+		ProviderName: Allstate
+		PolicyNumber: 303
+		ExpiryDate: 20/06/2030
+		InsuranceCost: 18000.0
+		CoverageDetails: Full coverage with EV-specific protection and charging station damage coverage.
+===========================================================================================================================================================
+
+Purchases
+===========================================================================================================================================================
+Purchase 1
+
+PurchaseID: 003
+PurchaseDate: 15/7/2021
+PaymentMethod: Mastercard
+Customer Details:
+		CustomerID: 303
+		CustomerName: John
+		CustomerPhone: 01002003040
+		CustomerEmail: JohnDoe@gmail.com
+Car Details:
+		CarID: 001
+		Model: Camry
+		Color: Silver
+		Make: Toyota
+		Year: 2020
+		Price: 35000.0
+		MilesDriven: 15000.0
+		RentalRatePerDay: 60.0
+		Status: Purchased
+		Insurance Details:
+				InsuranceID: 345
+				ProviderName: Geico
+				PolicyNumber: 789
+				ExpiryDate: 12/12/2028
+				InsuranceCost: 12000.0
+				CoverageDetails: Comprehensive coverage including collision, theft, and liability.
+===========================================================================================================================================================
+Purchase 2
+
+PurchaseID: 004
+PurchaseDate: 20/9/2022
+PaymentMethod: PayPal
+Customer Details:
+		CustomerID: 404
+		CustomerName: Emily
+		CustomerPhone: 01006007080
+		CustomerEmail: EmilySmith@gmail.com
+Car Details:
+		CarID: 002
+		Model: Mustang
+		Color: Black
+		Make: Ford
+		Year: 2019
+		Price: 45000.0
+		MilesDriven: 20000.0
+		RentalRatePerDay: 80.0
+		Status: Rented
+		Insurance Details:
+				InsuranceID: 456
+				ProviderName: State Farm
+				PolicyNumber: 101
+				ExpiryDate: 10/10/2027
+				InsuranceCost: 15000.0
+				CoverageDetails: Full coverage with roadside assistance and rental car reimbursement.
+===========================================================================================================================================================
+
+Rentals
+===========================================================================================================================================================
+Rental 1
+
+RentalID: 201
+RentalStartDate: 10/3/2025
+RentalEndDate: 15/3/2025
+RentalCost: 500.0
+Customer Details:
+		CustomerID: 303
+		CustomerName: John
+		CustomerPhone: 01002003040
+		CustomerEmail: JohnDoe@gmail.com
+Car Details:
+		CarID: 004
+		Model: Model 3
+		Color: Blue
+		Make: Tesla
+		Year: 2022
+		Price: 50000.0
+		MilesDriven: 8000.0
+		RentalRatePerDay: 100.0
+		Status: Rented
+		Insurance Details:
+				InsuranceID: 678
+				ProviderName: Allstate
+				PolicyNumber: 303
+				ExpiryDate: 20/06/2030
+				InsuranceCost: 18000.0
+				CoverageDetails: Full coverage with EV-specific protection and charging station damage coverage.
+===========================================================================================================================================================
